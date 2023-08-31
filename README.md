@@ -1,5 +1,5 @@
 
-                •Hello, i'm Valentino! 👋
+                                    					•Hello, i'm Valentino! 👋
 
 ## About me
 • Born in Pergamino, Argentina, I consider myself passionate about technology and sports. Currently, I am inclined to study data science at @SoyHenry, as I found it appealing and very enjoyable to conduct various research and be able to bring this into everyday life, while also gaining more tools for development.
