@@ -4,8 +4,6 @@
 ## About me
 • Born in Pergamino, Argentina, I consider myself passionate about technology and sports. Currently, I am inclined to study data science at @SoyHenry, as I found it appealing and very enjoyable to conduct various research and be able to bring this into everyday life, while also gaining more tools for development.
 
-![Logo](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
-
 • These are some of the languages I am learning during the course.
 
 
